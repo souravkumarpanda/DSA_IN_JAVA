@@ -1,0 +1,7 @@
+This is a multiple call concept used in recursion.
+It is very good concept to know the recursion very clearly.
+Logic -> Pre
+Call1
+Logic -> In
+Call2
+Logic -> Post
